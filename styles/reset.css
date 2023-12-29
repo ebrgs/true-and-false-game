@@ -1,0 +1,7 @@
+div, main, p, body {
+    box-sizing: border-box;
+    text-decoration: none;
+    font-style: none;
+    margin: 0;
+    padding: 0;
+}
